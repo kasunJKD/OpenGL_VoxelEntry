@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Voxel", "Voxel.vcxproj", "{01D2D8E6-4FB2-4818-8B27-E7BD06A38415}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01D2D8E6-4FB2-4818-8B27-E7BD06A38415}.Debug|x64.ActiveCfg = Debug|x64
+		{01D2D8E6-4FB2-4818-8B27-E7BD06A38415}.Debug|x64.Build.0 = Debug|x64
+		{01D2D8E6-4FB2-4818-8B27-E7BD06A38415}.Debug|x86.ActiveCfg = Debug|Win32
+		{01D2D8E6-4FB2-4818-8B27-E7BD06A38415}.Debug|x86.Build.0 = Debug|Win32
+		{01D2D8E6-4FB2-4818-8B27-E7BD06A38415}.Release|x64.ActiveCfg = Release|x64
+		{01D2D8E6-4FB2-4818-8B27-E7BD06A38415}.Release|x64.Build.0 = Release|x64
+		{01D2D8E6-4FB2-4818-8B27-E7BD06A38415}.Release|x86.ActiveCfg = Release|Win32
+		{01D2D8E6-4FB2-4818-8B27-E7BD06A38415}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64BF660D-08B5-4308-AF34-394858D3E1EF}
+	EndGlobalSection
+EndGlobal
